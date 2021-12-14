@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spartanhudbaubles",
+  "name": "Spartan HUD: Baubles",
+  "description": "Adds a configurable HUD overlay to show equipped Baubles. Essentially a replacement mod for Baubles HUD, with enhanced features.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ObliviousSpartan"],
+  "credits": "Shivaxi for the ideas to replace Baubles HUD with certain enhancements, and the rest of the RLCraft modpack team for testing and feedback.",
+  "logoFile": "assets/spartanhudbaubles/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
